@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "payer-notification-lace"
+authors:
+  - family-names: "Bandeira"
+    given-names: "Thiago Batista Nunes"
+    orcid: "https://orcid.org/0009-0006-0204-5298"
+    affiliation: "Mendez Medical Center"
+license: MIT
+repository-code: "https://github.com/thiagobandeira1/payer-notification-lace"
+preferred-citation:
+  type: article
+  title: "From Payer Notifications to Primary-Care Follow-up: Retrospective Evaluation of a Notification-Derived LACE Score and a Transitions-of-Care Program"
+  authors:
+    - family-names: "Bandeira"
+      given-names: "Thiago Batista Nunes"
+      orcid: "https://orcid.org/0009-0006-0204-5298"
+      affiliation: "Mendez Medical Center"
+  year: 2026
+  publisher:
+    name: "Zenodo"
+  doi: "10.5281/zenodo.24090922"
+  url: "https://doi.org/10.5281/zenodo.24090922"
